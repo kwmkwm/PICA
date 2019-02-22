@@ -56,10 +56,10 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=arduino_shieldsNCL
+LibName30=Arduino_Shield_Modules_for_KiCad_V3/arduino_shieldsNCL
 LibName31=Arduino_Shield_Modules_for_KiCad_V3/arduino_shieldsNCL
 LibName32=A4988_Carrier/pololu_a4988
-LibName33=C:/Users/Martin/Documents/kicad/Arduino_Shield_Modules_for_KiCad_V3/arduino_shieldsNCL
+LibName33=Arduino_Shield_Modules_for_KiCad_V3/arduino_shieldsNCL
 LibName34=Rampz_library/RAMPZ_LIB
 LibName35=LM2596-ADJ
 [general]
@@ -67,7 +67,7 @@ version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=C:/Users/Martin/Documents/GitHub/PICA/
+PlotDirectoryName=PICA/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
